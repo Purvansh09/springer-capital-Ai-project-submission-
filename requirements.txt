@@ -1,0 +1,11 @@
+pandas
+openpyxl
+textblob
+matplotlib
+seaborn
+scikit-learn
+python-docx
+jupyter
+notebook
+nbformat
+wordcloud
